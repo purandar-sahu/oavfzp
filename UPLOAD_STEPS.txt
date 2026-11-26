@@ -1,0 +1,11 @@
+GITHUB UPLOAD — NO FOLDERS TO CREATE
+
+1. Extract this ZIP on your phone. All website files are together in one folder; there are no subfolders to create.
+2. Open your GitHub repository in Chrome and tap Add file → Upload files.
+3. Select the files inside the extracted folder. Upload index.html and all the other files together.
+4. Scroll down and tap Commit changes.
+5. In repository Settings → Pages, choose Deploy from a branch, select main and /(root), then save.
+6. Open the Pages link after GitHub finishes publishing.
+
+Do not upload only the ZIP file. GitHub Pages needs the extracted files, with index.html at the repository root.
+This remains an unofficial demonstration until the school approves it.

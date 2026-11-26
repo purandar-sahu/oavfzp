@@ -1,0 +1,2 @@
+/* Single place to update branding, public facts and integration settings. Never put secrets here. */
+window.SCHOOL_CONFIG = {nameEn:"Odisha Adarsha Vidyalaya", location:"Frezorpur, Paikmal, Bargarh, Odisha – 768039", postalAddress:"Frezorpur, P.O. Kechhodadar, Via/PS Paikmal, District Bargarh, Odisha – 768039", affiliation:"1520036 (verify current status with CBSE)", classes:"VI–XII (listed in OAVS 2026–27 records; verify before publication)", officialSite:"https://oav.edu.in/", portfolio:"https://www.purandarsahu.in", supabaseUrl:"", supabaseAnonKey:"", demoMode:true};
